@@ -59,8 +59,6 @@ function setupSquares()
 	}
 }
 
-
-
 function reset(){
 	//console.log(numSquares);
 	colors = generateRandomColors(numSquares);
